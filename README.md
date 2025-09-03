@@ -1,3 +1,5 @@
-# Recover_Win10_Taskmgr
+Replace file in Windows!
 
-  git config --global user.email "you@example.com"  git config --global user.name "Your Name"
+
+
+Only adapt for Windows 11 23H2
